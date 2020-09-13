@@ -1,0 +1,93 @@
+body {
+  background-color: #efeee7;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #333333;
+  margin: 0;
+  padding: 0;
+  line-height: 150%;
+}
+
+header {
+  background-color: #333333;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: -50%;
+  margin-right: -50%;
+}
+
+h1 {
+  color: #eee;
+  font-size: 28px;
+  text-align: center;
+  margin: 0 30%;
+  padding: 0;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 1.5px;
+  margin-left: 0%;
+  
+  
+}
+
+.container {
+  margin: 0 auto;
+  width: 1024px;
+}
+
+#main-bio, #contact-info, #bio-image {
+  float: left;
+}
+
+#bio-image {
+  width: 300px;
+  margin-right: 10%;
+  margin-left: -5%;
+}
+
+#main-bio {
+  width: 80%;
+}
+
+#contact-info {
+  width: 17%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* * Style specs:
+  * Be sure to include `alt` text in all images
+  * `#main-bio` should have a width of `70%`.
+    * Add margins to the image so there is distance between it and the bio text.
+  * `#contact-info` should have a width of `30%`.
+  * Adjust the line height so it is 1.5 times the size of the font.
+  * Make the link color `#d21034`.
+* If you forgot how to write the CSS properties, you can reference all CSS properties here <https://developer.mozilla.org/en-US/docs/Web/CSS/Reference>
+* Bonus:
+  * Stage, commit, and push this new file to Github. --> */
